@@ -364,7 +364,7 @@
      showgrid="false"
      borderopacity="0.81568627"
      inkscape:current-layer="layer1"
-     inkscape:cx="-149.25107"
+     inkscape:cx="-345.25107"
      inkscape:cy="-7.9970736"
      inkscape:window-height="818"
      showborder="true"
@@ -1016,7 +1016,7 @@
         </dc:publisher>
         <dc:title>tango network workgroup</dc:title>
         <dc:date>2010-04-03T15:16:33</dc:date>
-        <dc:description>An icon from Tango Project. Since version 0.8.90 Tango Project icons are Public Domain.</dc:description>
+        <dc:description>network topology diagram originally for RH124</dc:description>
         <dc:source>https://openclipart.org/detail/36571/tango-network-workgroup-by-warszawianka</dc:source>
         <dc:creator>
           <cc:Agent>
@@ -1025,13 +1025,11 @@
         </dc:creator>
         <dc:subject>
           <rdf:Bag>
-            <rdf:li>computer</rdf:li>
-            <rdf:li>externalsource</rdf:li>
-            <rdf:li>icon</rdf:li>
             <rdf:li>network</rdf:li>
-            <rdf:li>tango</rdf:li>
             <rdf:li>terminal</rdf:li>
             <rdf:li>distributed volume</rdf:li>
+            <rdf:li>topology</rdf:li>
+            <rdf:li>RH124</rdf:li>
           </rdf:Bag>
         </dc:subject>
       </cc:Work>

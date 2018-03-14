@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="148.44449"
+     inkscape:cx="78.44449"
      inkscape:cy="22.26691"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -49,6 +49,16 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title></dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>EAP</rdf:li>
+            <rdf:li>architecture</rdf:li>
+            <rdf:li>cloud</rdf:li>
+            <rdf:li>server</rdf:li>
+            <rdf:li>rack</rdf:li>
+            <rdf:li>sparc</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
       </cc:Work>
     </rdf:RDF>
   </metadata>

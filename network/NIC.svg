@@ -1,126 +1,116 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
 <svg
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns="http://www.w3.org/2000/svg"
-    xmlns:x="http://ns.adobe.com/Extensibility/1.0/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
-    xmlns:cc="http://web.resource.org/cc/"
-    xmlns:xlink="http://www.w3.org/1999/xlink"
-    xmlns:graph="http://ns.adobe.com/Graphs/1.0/"
-    xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-    xmlns:ns1="http://sozi.baierouge.fr"
-    id="Layer_1"
-    enable-background="new 0 0 100 100"
-    xml:space="preserve"
-    viewBox="0 0 100 100"
-    version="1.1"
-    y="0px"
-    x="0px"
-  >
-<switch
-    >
-	<foreignObject
-        y="0"
-        x="0"
-        height="1"
-        width="1"
-        requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
-      >
-		<i:pgfRef
-          xlink:href="#adobe_illustrator_pgf"
-        >
-		</i:pgfRef
-      >
-	</foreignObject
-    >
-	<g
-        i:extraneous="self"
-      >
-		<g
-          clip-rule="evenodd"
-          fill-rule="evenodd"
-        >
-			<path
-            fill="#006600"
-            d="m79.225 23.4c-0.052-0.329-0.494-0.563-1.324-0.7-0.796-0.117-1.738-0.092-2.825 0.075-1.083 0.175-2 0.442-2.75 0.8-0.718 0.386-1.051 0.744-1 1.075 0.054 0.326 0.479 0.543 1.274 0.65 0.832 0.139 1.79 0.122 2.875-0.05 1.086-0.169 1.986-0.445 2.7-0.825 0.753-0.355 1.102-0.697 1.05-1.025zm-8.975 1.8l-3.55 0.4 0.8 5.6 3.5-0.5-3.5 0.5-0.8-5.6 3.55-0.4zm-6.75 0.75l3.2-0.35-3.2 0.35zm9.575 3.125c-0.718 0.386-1.051 0.744-1 1.075 0.054 0.326 0.479 0.543 1.274 0.65 0.832 0.139 1.79 0.122 2.875-0.05 1.086-0.169 1.986-0.445 2.7-0.825 0.753-0.355 1.103-0.697 1.05-1.025-0.052-0.329-0.494-0.563-1.324-0.7-0.796-0.117-1.738-0.092-2.825 0.075-1.083 0.175-2 0.442-2.75 0.8zm-19.075 11.125l1 6.75-1-6.75zm13.5-9l0.75 6 3.75-0.75-3.75 0.75-0.75-6zm-3.4 6.05l-1.574-11.875-24.75 3.275 1.575 11.875 24.749-3.275zm10.25-0.95c0.832 0.139 1.79 0.122 2.875-0.05 1.086-0.169 1.986-0.445 2.7-0.825 0.753-0.355 1.103-0.697 1.05-1.025-0.052-0.329-0.494-0.563-1.324-0.7-0.796-0.117-1.738-0.092-2.825 0.075-1.083 0.175-2 0.442-2.75 0.8-0.718 0.386-1.051 0.744-1 1.075 0.053 0.326 0.479 0.543 1.274 0.65zm4.9 7.75c0-0.867-0.316-1.617-0.95-2.25-0.634-0.6-1.399-0.9-2.3-0.9s-1.666 0.3-2.3 0.9c-0.634 0.633-0.95 1.383-0.95 2.25s0.316 1.6 0.95 2.2c0.634 0.633 1.399 0.95 2.3 0.95s1.666-0.317 2.3-0.95c0.634-0.6 0.95-1.333 0.95-2.2zm-20.75 5.15l7.75-1 1 7.25 17.75-2.25-2-11.5-3.75 0.25 3.75-0.25 2 11.5-17.75 2.25-1-7.25-7.75 1zm-0.4 6.875l-1.05-8.075-17.5 2.325 1.05 8.05 17.5-2.3zm-23.75 8.775l-5.075-39.75 2.375-0.45 1.75-0.7 51.875-6.125 6.125 43.225-56.4 7.975v-1.625l-0.65-2.55zm14.9-24.4l0.75 7.25-0.75-7.25zm-6.75 0.75l1 7.5-1-7.5z"
-        />
-			<path
-            fill="#333333"
-            d="m79.225 23.4c0.053 0.328-0.297 0.67-1.05 1.025-0.714 0.38-1.614 0.656-2.7 0.825-1.085 0.172-2.043 0.188-2.875 0.05-0.795-0.107-1.221-0.324-1.274-0.65-0.051-0.331 0.282-0.689 1-1.075 0.75-0.358 1.667-0.625 2.75-0.8 1.087-0.167 2.029-0.191 2.825-0.075 0.829 0.137 1.272 0.371 1.324 0.7zm-6.15 5.675c0.75-0.358 1.667-0.625 2.75-0.8 1.087-0.167 2.029-0.191 2.825-0.075 0.83 0.137 1.272 0.371 1.324 0.7 0.053 0.328-0.297 0.67-1.05 1.025-0.714 0.38-1.614 0.656-2.7 0.825-1.085 0.172-2.043 0.188-2.875 0.05-0.795-0.107-1.221-0.324-1.274-0.65-0.051-0.331 0.282-0.689 1-1.075zm-8.975 8.175l-24.75 3.275-1.575-11.875 24.75-3.275 1.575 11.875zm10.25-0.95c-0.795-0.107-1.221-0.324-1.274-0.65-0.051-0.331 0.282-0.689 1-1.075 0.75-0.358 1.667-0.625 2.75-0.8 1.087-0.167 2.029-0.191 2.825-0.075 0.83 0.137 1.272 0.371 1.324 0.7 0.053 0.328-0.297 0.67-1.05 1.025-0.714 0.38-1.614 0.656-2.7 0.825-1.085 0.172-2.043 0.188-2.875 0.05zm4.9 7.75c0 0.867-0.316 1.6-0.95 2.2-0.634 0.633-1.4 0.95-2.3 0.95s-1.666-0.317-2.3-0.95c-0.634-0.6-0.95-1.333-0.95-2.2s0.316-1.617 0.95-2.25c0.634-0.6 1.399-0.9 2.3-0.9s1.666 0.3 2.3 0.9c0.634 0.633 0.95 1.383 0.95 2.25zm-21.15 12.025l-17.5 2.3-1.05-8.05 17.5-2.325 1.05 8.075zm-28.775-4.075l0.375 2.925-1.05 0.15-0.375-2.95 1.05-0.125zm-5 6.6l-1.075-8.55 4.45-0.575 1.1 8.55-4.475 0.575z"
-        />
-			<path
-            fill="#CCCCCC"
-            d="m26.475 15.825l1.575-0.2 0.325 2.525-1.9-2.325 1.9 2.325 0.075 0.6-11.925 1.525 11.925-1.525h0.025l0.725 5.7 0.075 0.65 5.075 39.75 2.6 20.426-11.925 1.524-8.475-66.475-1.825 0.225-0.125-1.125 1.925 0.85 0.025 0.05-0.025-0.05-1.925-0.85-0.275-2.05 2.675-0.35 9.475-1.2zm-3.35 21.55l3.425-0.425-0.6-4.65-3.4 0.425 0.575 4.65zm1.2 21.225l4.475-0.574-1.1-8.55-4.45 0.575 1.075 8.549zm5-6.6l-1.05 0.125 0.375 2.95 1.05-0.15-0.375-2.925z"
-        />
-			<polygon
-            points="23.125 37.375 22.55 32.725 25.95 32.3 26.55 36.95"
-            fill="#00FF00"
-        />
-				<path
-            stroke-linejoin="round"
-            d="m79.225 23.4c0.053 0.328-0.297 0.67-1.05 1.025-0.714 0.38-1.614 0.656-2.7 0.825-1.085 0.172-2.043 0.188-2.875 0.05-0.795-0.107-1.221-0.324-1.274-0.65-0.051-0.331 0.282-0.689 1-1.075 0.75-0.358 1.667-0.625 2.75-0.8 1.087-0.167 2.029-0.191 2.825-0.075 0.829 0.137 1.272 0.371 1.324 0.7zm-6.15 5.675c0.75-0.358 1.667-0.625 2.75-0.8 1.087-0.167 2.029-0.191 2.825-0.075 0.83 0.137 1.272 0.371 1.324 0.7 0.053 0.328-0.297 0.67-1.05 1.025-0.714 0.38-1.614 0.656-2.7 0.825-1.085 0.172-2.043 0.188-2.875 0.05-0.795-0.107-1.221-0.324-1.274-0.65-0.051-0.331 0.282-0.689 1-1.075zm1.275 7.225c-0.795-0.107-1.221-0.324-1.274-0.65-0.051-0.331 0.282-0.689 1-1.075 0.75-0.358 1.667-0.625 2.75-0.8 1.087-0.167 2.029-0.191 2.825-0.075 0.83 0.137 1.272 0.371 1.324 0.7 0.053 0.328-0.297 0.67-1.05 1.025-0.714 0.38-1.614 0.656-2.7 0.825-1.085 0.172-2.043 0.188-2.875 0.05z"
-            stroke="#FFCC99"
-            stroke-linecap="round"
-            stroke-miterlimit="3"
-            stroke-width="2"
-            fill="none"
-        />
-				<path
-            stroke-linejoin="round"
-            d="m70.25 25.2l-3.55 0.4 0.8 5.6 3.5-0.5m-7.5-4.75l3.2-0.35m-12.7 14.6l1 6.75m12.5-15.75l0.75 6 3.75-0.75m-13.5 12.75l7.75-1 1 7.25 17.75-2.25-2-11.5-3.75 0.25m-30-1.5l0.75 7.25m-7.5-6.5l1 7.5"
-            stroke="#00FF00"
-            stroke-linecap="round"
-            stroke-miterlimit="3"
-            fill="none"
-        />
-				<path
-            stroke-linejoin="round"
-            d="m64.1 37.25l-24.75 3.275-1.575-11.875 24.75-3.275 1.575 11.875zm15.15 6.8c0 0.867-0.316 1.6-0.95 2.2-0.634 0.633-1.4 0.95-2.3 0.95s-1.666-0.317-2.3-0.95c-0.634-0.6-0.95-1.333-0.95-2.2s0.316-1.617 0.95-2.25c0.634-0.6 1.399-0.9 2.3-0.9s1.666 0.3 2.3 0.9c0.634 0.633 0.95 1.383 0.95 2.25zm-21.15 12.025l-17.5 2.3-1.05-8.05 17.5-2.325 1.05 8.075z"
-            stroke="#999999"
-            stroke-linecap="round"
-            stroke-miterlimit="3"
-            stroke-width="2"
-            fill="none"
-        />
-				<path
-            stroke-linejoin="round"
-            d="m33.4 23.95l51.875-6.125 6.125 43.225-56.4 7.975m0-0.925v-0.7l-0.65-2.551m-0.95-40.899l-4.2 0.5"
-            stroke="#000000"
-            stroke-linecap="round"
-            stroke-miterlimit="3"
-            stroke-width="2"
-            fill="none"
-        />
-				<path
-            stroke-linejoin="round"
-            d="m34.35 64.85l2.6 20.426-11.925 1.524-8.475-66.475-0.025-0.05-1.925-0.85-5.35-2.35m7.75-0.05l-1.55-1.2-6.45 0.725m17.475-0.725l-1.15-1.5-6.9 0.875-1.425 1.825m12.275 8.075l-0.075-0.65-0.725-5.7h-0.025l-11.925 1.525m11.85-2.125l-1.9-2.325m7.875 49.025l-5.075-39.75"
-            stroke="#000000"
-            stroke-linecap="round"
-            stroke-miterlimit="3"
-            stroke-width="3"
-            fill="none"
-        />
-				<path
-            stroke-linejoin="round"
-            d="m23.125 37.375l-0.575-4.65 3.4-0.425 0.6 4.65-3.425 0.425zm6.2 14.625l0.375 2.925-1.05 0.15-0.375-2.95 1.05-0.125zm-5 6.6l-1.075-8.55 4.45-0.575 1.1 8.55-4.475 0.575z"
-            stroke="#000000"
-            stroke-linecap="round"
-            stroke-miterlimit="3"
-            fill="none"
-        />
-		</g
-      >
-	</g
-    >
-</switch
-  >
-<i:pgf
-      id="adobe_illustrator_pgf"
-    >
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   enable-background="new 0 0 100 100"
+   xml:space="preserve"
+   viewBox="0 0 100 100"
+   version="1.1"
+   y="0px"
+   x="0px"
+   sodipodi:docname="NIC.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"><defs
+     id="defs1237" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="806"
+     inkscape:window-height="480"
+     id="namedview1235"
+     showgrid="false"
+     inkscape:zoom="2.36"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" /><switch
+     id="switch1230"><foreignObject
+       y="0"
+       x="0"
+       height="1"
+       width="1"
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"><i:pgfRef
+         xlink:href="#adobe_illustrator_pgf" /></foreignObject><g
+       i:extraneous="self"
+       id="g1228"><g
+         clip-rule="evenodd"
+         fill-rule="evenodd"
+         id="g1226"><path
+           fill="#006600"
+           d="m79.225 23.4c-0.052-0.329-0.494-0.563-1.324-0.7-0.796-0.117-1.738-0.092-2.825 0.075-1.083 0.175-2 0.442-2.75 0.8-0.718 0.386-1.051 0.744-1 1.075 0.054 0.326 0.479 0.543 1.274 0.65 0.832 0.139 1.79 0.122 2.875-0.05 1.086-0.169 1.986-0.445 2.7-0.825 0.753-0.355 1.102-0.697 1.05-1.025zm-8.975 1.8l-3.55 0.4 0.8 5.6 3.5-0.5-3.5 0.5-0.8-5.6 3.55-0.4zm-6.75 0.75l3.2-0.35-3.2 0.35zm9.575 3.125c-0.718 0.386-1.051 0.744-1 1.075 0.054 0.326 0.479 0.543 1.274 0.65 0.832 0.139 1.79 0.122 2.875-0.05 1.086-0.169 1.986-0.445 2.7-0.825 0.753-0.355 1.103-0.697 1.05-1.025-0.052-0.329-0.494-0.563-1.324-0.7-0.796-0.117-1.738-0.092-2.825 0.075-1.083 0.175-2 0.442-2.75 0.8zm-19.075 11.125l1 6.75-1-6.75zm13.5-9l0.75 6 3.75-0.75-3.75 0.75-0.75-6zm-3.4 6.05l-1.574-11.875-24.75 3.275 1.575 11.875 24.749-3.275zm10.25-0.95c0.832 0.139 1.79 0.122 2.875-0.05 1.086-0.169 1.986-0.445 2.7-0.825 0.753-0.355 1.103-0.697 1.05-1.025-0.052-0.329-0.494-0.563-1.324-0.7-0.796-0.117-1.738-0.092-2.825 0.075-1.083 0.175-2 0.442-2.75 0.8-0.718 0.386-1.051 0.744-1 1.075 0.053 0.326 0.479 0.543 1.274 0.65zm4.9 7.75c0-0.867-0.316-1.617-0.95-2.25-0.634-0.6-1.399-0.9-2.3-0.9s-1.666 0.3-2.3 0.9c-0.634 0.633-0.95 1.383-0.95 2.25s0.316 1.6 0.95 2.2c0.634 0.633 1.399 0.95 2.3 0.95s1.666-0.317 2.3-0.95c0.634-0.6 0.95-1.333 0.95-2.2zm-20.75 5.15l7.75-1 1 7.25 17.75-2.25-2-11.5-3.75 0.25 3.75-0.25 2 11.5-17.75 2.25-1-7.25-7.75 1zm-0.4 6.875l-1.05-8.075-17.5 2.325 1.05 8.05 17.5-2.3zm-23.75 8.775l-5.075-39.75 2.375-0.45 1.75-0.7 51.875-6.125 6.125 43.225-56.4 7.975v-1.625l-0.65-2.55zm14.9-24.4l0.75 7.25-0.75-7.25zm-6.75 0.75l1 7.5-1-7.5z"
+           id="path1206" /><path
+           fill="#333333"
+           d="m79.225 23.4c0.053 0.328-0.297 0.67-1.05 1.025-0.714 0.38-1.614 0.656-2.7 0.825-1.085 0.172-2.043 0.188-2.875 0.05-0.795-0.107-1.221-0.324-1.274-0.65-0.051-0.331 0.282-0.689 1-1.075 0.75-0.358 1.667-0.625 2.75-0.8 1.087-0.167 2.029-0.191 2.825-0.075 0.829 0.137 1.272 0.371 1.324 0.7zm-6.15 5.675c0.75-0.358 1.667-0.625 2.75-0.8 1.087-0.167 2.029-0.191 2.825-0.075 0.83 0.137 1.272 0.371 1.324 0.7 0.053 0.328-0.297 0.67-1.05 1.025-0.714 0.38-1.614 0.656-2.7 0.825-1.085 0.172-2.043 0.188-2.875 0.05-0.795-0.107-1.221-0.324-1.274-0.65-0.051-0.331 0.282-0.689 1-1.075zm-8.975 8.175l-24.75 3.275-1.575-11.875 24.75-3.275 1.575 11.875zm10.25-0.95c-0.795-0.107-1.221-0.324-1.274-0.65-0.051-0.331 0.282-0.689 1-1.075 0.75-0.358 1.667-0.625 2.75-0.8 1.087-0.167 2.029-0.191 2.825-0.075 0.83 0.137 1.272 0.371 1.324 0.7 0.053 0.328-0.297 0.67-1.05 1.025-0.714 0.38-1.614 0.656-2.7 0.825-1.085 0.172-2.043 0.188-2.875 0.05zm4.9 7.75c0 0.867-0.316 1.6-0.95 2.2-0.634 0.633-1.4 0.95-2.3 0.95s-1.666-0.317-2.3-0.95c-0.634-0.6-0.95-1.333-0.95-2.2s0.316-1.617 0.95-2.25c0.634-0.6 1.399-0.9 2.3-0.9s1.666 0.3 2.3 0.9c0.634 0.633 0.95 1.383 0.95 2.25zm-21.15 12.025l-17.5 2.3-1.05-8.05 17.5-2.325 1.05 8.075zm-28.775-4.075l0.375 2.925-1.05 0.15-0.375-2.95 1.05-0.125zm-5 6.6l-1.075-8.55 4.45-0.575 1.1 8.55-4.475 0.575z"
+           id="path1208" /><path
+           fill="#CCCCCC"
+           d="m26.475 15.825l1.575-0.2 0.325 2.525-1.9-2.325 1.9 2.325 0.075 0.6-11.925 1.525 11.925-1.525h0.025l0.725 5.7 0.075 0.65 5.075 39.75 2.6 20.426-11.925 1.524-8.475-66.475-1.825 0.225-0.125-1.125 1.925 0.85 0.025 0.05-0.025-0.05-1.925-0.85-0.275-2.05 2.675-0.35 9.475-1.2zm-3.35 21.55l3.425-0.425-0.6-4.65-3.4 0.425 0.575 4.65zm1.2 21.225l4.475-0.574-1.1-8.55-4.45 0.575 1.075 8.549zm5-6.6l-1.05 0.125 0.375 2.95 1.05-0.15-0.375-2.925z"
+           id="path1210" /><polygon
+           points="23.125 37.375 22.55 32.725 25.95 32.3 26.55 36.95"
+           fill="#00FF00"
+           id="polygon1212" /><path
+           stroke-linejoin="round"
+           d="m79.225 23.4c0.053 0.328-0.297 0.67-1.05 1.025-0.714 0.38-1.614 0.656-2.7 0.825-1.085 0.172-2.043 0.188-2.875 0.05-0.795-0.107-1.221-0.324-1.274-0.65-0.051-0.331 0.282-0.689 1-1.075 0.75-0.358 1.667-0.625 2.75-0.8 1.087-0.167 2.029-0.191 2.825-0.075 0.829 0.137 1.272 0.371 1.324 0.7zm-6.15 5.675c0.75-0.358 1.667-0.625 2.75-0.8 1.087-0.167 2.029-0.191 2.825-0.075 0.83 0.137 1.272 0.371 1.324 0.7 0.053 0.328-0.297 0.67-1.05 1.025-0.714 0.38-1.614 0.656-2.7 0.825-1.085 0.172-2.043 0.188-2.875 0.05-0.795-0.107-1.221-0.324-1.274-0.65-0.051-0.331 0.282-0.689 1-1.075zm1.275 7.225c-0.795-0.107-1.221-0.324-1.274-0.65-0.051-0.331 0.282-0.689 1-1.075 0.75-0.358 1.667-0.625 2.75-0.8 1.087-0.167 2.029-0.191 2.825-0.075 0.83 0.137 1.272 0.371 1.324 0.7 0.053 0.328-0.297 0.67-1.05 1.025-0.714 0.38-1.614 0.656-2.7 0.825-1.085 0.172-2.043 0.188-2.875 0.05z"
+           stroke="#FFCC99"
+           stroke-linecap="round"
+           stroke-miterlimit="3"
+           stroke-width="2"
+           fill="none"
+           id="path1214" /><path
+           stroke-linejoin="round"
+           d="m70.25 25.2l-3.55 0.4 0.8 5.6 3.5-0.5m-7.5-4.75l3.2-0.35m-12.7 14.6l1 6.75m12.5-15.75l0.75 6 3.75-0.75m-13.5 12.75l7.75-1 1 7.25 17.75-2.25-2-11.5-3.75 0.25m-30-1.5l0.75 7.25m-7.5-6.5l1 7.5"
+           stroke="#00FF00"
+           stroke-linecap="round"
+           stroke-miterlimit="3"
+           fill="none"
+           id="path1216" /><path
+           stroke-linejoin="round"
+           d="m64.1 37.25l-24.75 3.275-1.575-11.875 24.75-3.275 1.575 11.875zm15.15 6.8c0 0.867-0.316 1.6-0.95 2.2-0.634 0.633-1.4 0.95-2.3 0.95s-1.666-0.317-2.3-0.95c-0.634-0.6-0.95-1.333-0.95-2.2s0.316-1.617 0.95-2.25c0.634-0.6 1.399-0.9 2.3-0.9s1.666 0.3 2.3 0.9c0.634 0.633 0.95 1.383 0.95 2.25zm-21.15 12.025l-17.5 2.3-1.05-8.05 17.5-2.325 1.05 8.075z"
+           stroke="#999999"
+           stroke-linecap="round"
+           stroke-miterlimit="3"
+           stroke-width="2"
+           fill="none"
+           id="path1218" /><path
+           stroke-linejoin="round"
+           d="m33.4 23.95l51.875-6.125 6.125 43.225-56.4 7.975m0-0.925v-0.7l-0.65-2.551m-0.95-40.899l-4.2 0.5"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-miterlimit="3"
+           stroke-width="2"
+           fill="none"
+           id="path1220" /><path
+           stroke-linejoin="round"
+           d="m34.35 64.85l2.6 20.426-11.925 1.524-8.475-66.475-0.025-0.05-1.925-0.85-5.35-2.35m7.75-0.05l-1.55-1.2-6.45 0.725m17.475-0.725l-1.15-1.5-6.9 0.875-1.425 1.825m12.275 8.075l-0.075-0.65-0.725-5.7h-0.025l-11.925 1.525m11.85-2.125l-1.9-2.325m7.875 49.025l-5.075-39.75"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-miterlimit="3"
+           stroke-width="3"
+           fill="none"
+           id="path1222" /><path
+           stroke-linejoin="round"
+           d="m23.125 37.375l-0.575-4.65 3.4-0.425 0.6 4.65-3.425 0.425zm6.2 14.625l0.375 2.925-1.05 0.15-0.375-2.95 1.05-0.125zm-5 6.6l-1.075-8.55 4.45-0.575 1.1 8.55-4.475 0.575z"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-miterlimit="3"
+           fill="none"
+           id="path1224" /></g></g></switch><i:pgf
+     id="adobe_illustrator_pgf">
 	eJzsvWmPJMmRJfi9gPoPvh8aIBtTQTM9TNW4gwXC4+BwhuwmSPaxaAwKyawgmdN5FLKyyOX++pX3
 RFRUzdw9KvIoNne6QqsywsXN1EwvUTmeiP7d//Gr33xx/dWb3z18Ea+mw+ef/d3f3bx9ePbuzduf
 Hkg+/Pzly2+/efcWpB/9+seHebmacNX1z+uXduU/P7z95sWb1z/ld/rtPe7/0S+fvXv3x4c///jw
@@ -1972,69 +1962,12 @@ GPgHQVFQ40sSJMsgUcMJGo2r/XdvV7sgG+Qu919LLvcWfhw4U0y+IREysMNwoYaDTDGLphO3yNBS
 4tdAoIDcgAJjIWOC2SkZUAC6gJp7EWsixwTbjJEGl+Dww+cEoagy2FoYi1WHnBj715IlLUhZtSn+
 izcXW9bjQS35Efkvx1+bRps/dMls/jNcMvy+70CW8vlPuo+OfxoFPomsPB+jNK8wzL08u3udTtrr
 168fmFM23bz+2+TkdT5fbF+3kyW4dTJdTzbbxXpysvlc/AtegS+JL5ydlW8rjn/+H5GbhSg=
-</i:pgf
-  >
-<metadata
-    ><rdf:RDF
-      ><cc:Work
-        ><dc:format
-          >image/svg+xml</dc:format
-        ><dc:type
-            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
-        /><cc:license
-            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
-        /><dc:publisher
-          ><cc:Agent
-              rdf:about="http://openclipart.org/"
-            ><dc:title
-              >Openclipart</dc:title
-            ></cc:Agent
-          ></dc:publisher
-        ><dc:title
-          >Network Interface Card</dc:title
-        ><dc:date
-          >2013-01-25T07:49:01</dc:date
-        ><dc:description
-          >Network Interface Card (NIC)</dc:description
-        ><dc:source
-          >https://openclipart.org/detail/174480/network-interface-card-by-witcombem-174480</dc:source
-        ><dc:creator
-          ><cc:Agent
-            ><dc:title
-              >witcombem</dc:title
-            ></cc:Agent
-          ></dc:creator
-        ><dc:subject
-          ><rdf:Bag
-            ><rdf:li
-              >Card</rdf:li
-            ><rdf:li
-              >Circuit</rdf:li
-            ><rdf:li
-              >Electronics</rdf:li
-            ><rdf:li
-              >Interface</rdf:li
-            ><rdf:li
-              >NIC</rdf:li
-            ><rdf:li
-              >Network</rdf:li
-            ><rdf:li
-              >Network Interface Card</rdf:li
-            ><rdf:li
-              >PCI</rdf:li
-            ></rdf:Bag
-          ></dc:subject
-        ></cc:Work
-      ><cc:License
-          rdf:about="http://creativecommons.org/licenses/publicdomain/"
-        ><cc:permits
-            rdf:resource="http://creativecommons.org/ns#Reproduction"
-        /><cc:permits
-            rdf:resource="http://creativecommons.org/ns#Distribution"
-        /><cc:permits
-            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
-        /></cc:License
-      ></rdf:RDF
-    ></metadata
-  ></svg
->
+</i:pgf><metadata
+     id="metadata1232"><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" /><dc:publisher><cc:Agent
+             rdf:about="http://openclipart.org/"><dc:title>Openclipart</dc:title></cc:Agent></dc:publisher><dc:title>Network Interface Card</dc:title><dc:date>2013-01-25T07:49:01</dc:date><dc:description>Network Interface Card (NIC)</dc:description><dc:source>https://openclipart.org/detail/174480/network-interface-card-by-witcombem-174480</dc:source><dc:creator><cc:Agent><dc:title>witcombem</dc:title></cc:Agent></dc:creator><dc:subject><rdf:Bag><rdf:li>Card</rdf:li><rdf:li>Circuit</rdf:li><rdf:li>Electronics</rdf:li><rdf:li>Interface</rdf:li><rdf:li>NIC</rdf:li><rdf:li>Network</rdf:li><rdf:li>Network Interface Card</rdf:li><rdf:li>PCI</rdf:li><rdf:li>RH124</rdf:li></rdf:Bag></dc:subject></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/"><cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF></metadata></svg>
