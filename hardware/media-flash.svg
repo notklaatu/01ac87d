@@ -124,7 +124,7 @@
      inkscape:zoom="5.6568542"
      inkscape:cx="73.556229"
      inkscape:window-height="1007"
-     showgrid="true"
+     showgrid="false"
      borderopacity="0.25490196"
      inkscape:current-layer="layer1"
      stroke="#ef2929"
@@ -176,131 +176,6 @@
        width="27.977"
        y="5.6161"
        x="9.5" />
-    <rect
-       id="rect4295"
-       style="opacity:.44944;color:black;stroke-dashoffset:.8;stroke:white;fill:none"
-       transform="matrix(1 0 -.0055327 .99998 0 0)"
-       rx="1.1461"
-       ry="1.1461"
-       height="15"
-       width="26"
-       y="6.6162"
-       x="10.578" />
-    <path
-       id="path6043"
-       sodipodi:nodetypes="ccccccccccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m12 6.1161v5.9999c7.205-2.8602 15.058 3.978 23 2v-7.928h1v15.928h-1v-6c-8.663 1.941-15.554-5.046-23-2v8h-1v-16l1 0.0001z" />
-    <path
-       id="path6045"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m13 6.1161v4.7349l1-0.239v-4.4959h-1z" />
-    <path
-       id="path6047"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m15 10.612v-4.4959h1v4.4069l-1 0.089z" />
-    <path
-       id="path6049"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m17 10.523v-4.4069h1v4.5579l-1-0.151z" />
-    <path
-       id="path6051"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m19 10.895v-4.7789h1v4.9999l-1-0.221z" />
-    <path
-       id="path6053"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m21 11.275v-5.1589h1v5.3349l-1-0.176z" />
-    <path
-       id="path6055"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m23 11.805v-5.6889h1v5.8219l-1-0.133z" />
-    <path
-       id="path6057"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m25 12.335v-6.2189h1v6.3959l-1-0.177z" />
-    <path
-       id="path6059"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m27 12.733v-6.6169h1v6.7939l-1-0.177z" />
-    <path
-       id="path6061"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m29 13.219v-7.1029h1v7.1919l-1-0.089z" />
-    <path
-       id="path6063"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m31 13.396v-7.2799h1v7.2799h-1z" />
-    <path
-       id="path6065"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m33 13.396v-7.2799h1v7.1469l-1 0.133z" />
-    <path
-       id="path6067"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m13 22.07v-7.431l1-0.114v7.545h-1z" />
-    <path
-       id="path6069"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m15 14.481v7.589h1v-7.722l-1 0.133z" />
-    <path
-       id="path6071"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m17 14.348v7.722h1v-7.607l-1-0.115z" />
-    <path
-       id="path6073"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m19 14.772v7.298h1v-7.077l-1-0.221z" />
-    <path
-       id="path6075"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m21 15.232v6.838h1v-6.573l-1-0.265z" />
-    <path
-       id="path6077"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m23 15.851v6.219h1v-5.865l-1-0.354z" />
-    <path
-       id="path6079"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m25 16.381v5.689h1v-5.424l-1-0.265z" />
-    <path
-       id="path6081"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m27 16.823v5.247h1v-5.07l-1-0.177z" />
-    <path
-       id="path6083"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m29 17.177v4.893h1v-4.849l-1-0.044z" />
-    <path
-       id="path6085"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m31 17.398v4.672h1v-4.805l-1 0.133z" />
-    <path
-       id="path6087"
-       sodipodi:nodetypes="ccccc"
-       style="opacity:.44944;fill-rule:evenodd;color:black;fill:white"
-       d="m33 17.354v4.716h1v-4.893l-1 0.177z" />
     <rect
        id="rect6095"
        style="fill-rule:evenodd;color:black;fill:#2e3436"
@@ -355,6 +230,25 @@
        inkscape:original="M 6.7363281 1.5 C 5.7991281 1.5614 5.4375 2.4994281 5.5 3.2363281 L 5.5 43.619141 C 5.5697 44.669141 6.4981125 45.720234 7.8828125 45.615234 L 39.736328 45.615234 C 40.630328 45.572234 41.513 44.829422 41.5 43.357422 L 41.5 6.4277344 C 41.5 5.7115344 41.269141 5.2306438 40.744141 4.7148438 L 37.996094 1.8789062 C 37.708094 1.6075063 37.532328 1.5 36.736328 1.5 L 6.7363281 1.5 z "
        inkscape:href="#path4291"
        inkscape:radius="-1.000373" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.52177179;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect949"
+       width="26.339727"
+       height="7.7781749"
+       x="10.429825"
+       y="10.225243"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="12.197592"
+       y="16.180195"
+       id="text939"><tspan
+         sodipodi:role="line"
+         x="12.197592"
+         y="16.180195"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333349px;line-height:0px;font-family:Carlito;-inkscape-font-specification:Carlito;fill:#ffffff;fill-opacity:1;"
+         id="tspan945">Openstack</tspan></text>
   </g>
   <metadata
      id="metadata1865">
@@ -373,7 +267,7 @@
         </dc:publisher>
         <dc:title>tango media flash</dc:title>
         <dc:date>2010-03-27T10:19:07</dc:date>
-        <dc:description></dc:description>
+        <dc:description />
         <dc:source>https://openclipart.org/detail/34573/tango-media-flash-by-warszawianka</dc:source>
         <dc:creator>
           <cc:Agent>
