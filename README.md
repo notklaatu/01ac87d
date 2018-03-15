@@ -17,10 +17,14 @@ Here are some searches to try:
 * OpenShift cluster architecture
 * distributed volume
 
+In addition to using
+
 To perform a search through the web interface:
 
 ![web search](.readme/instruction.jpg)
 
-To perform a search for "foo" locally:
+## Flexibility
+
+Developers who don't want to use the web UI of Github can also search for "foo" from the command line:
 
     $ find path/to/repo/ -type f -name "*svg" -exec grep -li foo {} \;
